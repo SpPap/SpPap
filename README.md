@@ -12,6 +12,7 @@ I hold an Electrical and Electronics Engineering diploma* (a 5-year degree, equi
 * Predictive Control
 * Systems Optimization
 * Computational Intelligence (Artificial Neural Networks, Swarm Intelligence, Genetic Algorithms, Fuzzy Logic)
+* Edge AI  
 * Mathematical Modeling and Simulation
 * Embedded/Computer Systems 
 * Data/Signal Processing
