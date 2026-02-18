@@ -4,7 +4,7 @@
 <p align="justify ">
 I hold an Electrical and Electronics Engineering diploma* (a 5-year degree, equivalent to a Master's of Engineering). I have a strong curiosity and a keen interest in research, particularly in the intersection of control theory, computational intelligence and systems optimization. My ultimate goal is to apply these concepts to real-world engineering systems.</p>
 
-* Diploma thesis title: “[Development of model predictive control schemes for unmanned aerial vehicles using neural networks](http://dx.doi.org/10.26265/polynoe-7607)”
+* Diploma thesis: “[Development of model predictive control schemes for unmanned aerial vehicles using neural networks](http://dx.doi.org/10.26265/polynoe-7607)”
 * Paper:  [S. K. Papadopoulos, T. Protoulis and A. Alexandridis, "Quadcopter Attitude Control using Nonlinear MPC and RBF Neural Networks," 2025 33rd Mediterranean Conference on Control and Automation (MED), Tangier, Morocco, 2025, pp. 263-268, doi: 10.1109/MED64031.2025.11073520.](https://ieeexplore.ieee.org/document/11073520)
 
  &nbsp;<ins>Fields of interest</ins>:
